@@ -1,0 +1,15 @@
+.video-js {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 80px;
+    border-radius: 10px;
+}
+
+.vjs-poster {
+    border-radius: 10px;
+}
+
+.video-js .vjs-big-play-button {
+    background-color: rgb(222, 149, 245) !important;
+}

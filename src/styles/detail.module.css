@@ -1,0 +1,59 @@
+.back {
+    background-image: url("../assets/background1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 80px;
+}
+
+.container {
+    background-color: rgba(223, 150, 245, 0.5);
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    border-radius: 30px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+.title {
+    text-align: center;
+}
+
+.image {
+    width: 1000px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 30px;
+    display: block;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    width: 1400px;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.videotitle {
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 410px;
+}
+
+.text2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 30px;
+}

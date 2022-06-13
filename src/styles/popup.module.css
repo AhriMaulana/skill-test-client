@@ -1,0 +1,68 @@
+.form {
+    margin: 150px 28%;
+}
+
+.formGroup {
+    display: table;
+}
+
+.header {
+    margin-bottom: 29px;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.inputGroup {
+    border: 2px solid #837c7c;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+    width: 360px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.inputGroup1 {
+    border: 2px solid #837c7c;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+    width: 360px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.inputGroup2 {
+    border: 2px solid #837c7c;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 18px;
+    width: 360px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.button {
+    border-radius: 5px;
+    font-size: 18px;
+    width: 360px;
+    height: 50px;
+    margin-bottom: 21px;
+    color: #FFFFFF;
+    background:rgb(203, 77, 241);
+    border: hidden;
+}
+
+.text {
+    font-size: 18px;
+    text-align: center;
+}
+
+.link {
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
